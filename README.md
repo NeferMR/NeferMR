@@ -90,8 +90,8 @@
   ![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
 ### GitHub Analytics
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeferMR&show_icons=true&theme=blue-white)](https://github.com/MaycolMD)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NeferMR&layout=compact&theme=blue-white)](https://github.com/MaycolMD)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeferMR&show_icons=true&theme=blue-white)](https://github.com/NeferMR)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NeferMR&layout=compact&theme=blue-white)](https://github.com/NeferMR)
 
 <!--
 **NeferMR/NeferMR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
