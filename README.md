@@ -18,7 +18,7 @@
 - 🤔 I’m looking for improve my skill with innovative solutions and high product quality.
 - 💬 Ask me about web development, Machine Learning Models and Automatization solutions.
 - 📫 How to reach me: Nefermr5@gmail.com
-- 🌎 Website / Repository: https://nefermr.github.io/portafolio
+- 🌎 Website / portfolio: https://nefermr.github.io/portafolio
 
 ## Tech stack
 ### Data Engineering
